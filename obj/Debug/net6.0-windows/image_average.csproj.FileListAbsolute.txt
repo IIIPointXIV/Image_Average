@@ -1,0 +1,15 @@
+F:\Code\image_average\bin\Debug\net6.0-windows\image_average.exe
+F:\Code\image_average\bin\Debug\net6.0-windows\image_average.deps.json
+F:\Code\image_average\bin\Debug\net6.0-windows\image_average.runtimeconfig.json
+F:\Code\image_average\bin\Debug\net6.0-windows\image_average.dll
+F:\Code\image_average\bin\Debug\net6.0-windows\ref\image_average.dll
+F:\Code\image_average\bin\Debug\net6.0-windows\image_average.pdb
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.csproj.AssemblyReference.cache
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.AssemblyInfoInputs.cache
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.AssemblyInfo.cs
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.csproj.CoreCompileInputs.cache
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.dll
+F:\Code\image_average\obj\Debug\net6.0-windows\ref\image_average.dll
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.pdb
+F:\Code\image_average\obj\Debug\net6.0-windows\image_average.genruntimeconfig.cache
