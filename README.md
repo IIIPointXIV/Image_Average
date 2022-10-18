@@ -1,3 +1,5 @@
+# NO LONGER MAINTAINED. GO TO [HERE](https://github.com/IIIPointXIV/Average_osu_Skins) TO SEE UPDATED WORK
+
 # Image Average
 
 Takes a directory and creates an average image from it.
